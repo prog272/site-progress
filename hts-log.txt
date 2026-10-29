@@ -1,0 +1,17 @@
+HTTrack3.51-0 launched on Thu, 29 Oct 2026 17:20:32 at https://llcprogress.ge/ +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2%f#f -F "Mozilla/5.0 (compatible; HTTrack/3.x; +https://www.httrack.com/)" -%F "<!-- Mirrored from {url} by HTTrack Website Copier/3.x [XR&CO], {date} -->" -%l "ru, en, *" https://llcprogress.ge/ -O1 "C:\Мои Web Сайты\my site new" +*.png +*.gif +*.jpg +*.jpeg +*.webp +*.avif +*.svg +*.css +*.js +*.woff2 +*.woff +*.ttf +*.otf +*.mp4 +*.webm -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:20:51	Error: 	"Not Found" (404) at link https://llcprogress.ge/Popover requires tooltip.js (from https://llcprogress.ge/js/common-bundle.js?ts=20260516175508)
+17:20:51	Warning: 	File not parsed, looks like binary: https://llcprogress.ge/fonts/glyphicons-halflings-regular.woff2
+17:20:51	Warning: 	File not parsed, looks like binary: https://llcprogress.ge/css/fonts/fontawesome-webfont.woff2?v=4.7.0
+17:20:52	Error: 	"Not Found" (404) at link https://llcprogress.ge/img/icon-logo.svg (from https://llcprogress.ge/css/common-bundle.css?ts=20260516175508)
+17:20:52	Error: 	"Not Found" (404) at link https://llcprogress.ge/img/icon-logo-red.svg (from https://llcprogress.ge/css/common-bundle.css?ts=20260516175508)
+17:20:52	Error: 	"Not Found" (404) at link https://llcprogress.ge/img/flags_matrix.png (from https://llcprogress.ge/css/common-bundle.css?ts=20260516175508)
+
+HTTrack Website Copier/3.51-0 mirror complete in 28 seconds : 76 links scanned, 71 files written (44479200 bytes overall) [43350334 bytes received at 1548226 bytes/sec], 2020470 bytes transferred using HTTP compression in 29 files, ratio 42%, 5.8 requests per connection
+(4 errors, 2 warnings, 0 messages)

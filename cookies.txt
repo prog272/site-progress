@@ -1,0 +1,3 @@
+# Netscape HTTP Cookie File
+# Written by HTTrack Website Copier
+llcprogress.ge	FALSE	/	FALSE	0	PHPSESSID	tlqc76dhgaqep85eia2qa7r366
